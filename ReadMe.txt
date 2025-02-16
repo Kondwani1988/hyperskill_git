@@ -89,8 +89,8 @@ They plan to weaponize AI by modifying Sentinel-X into a cyber-offensive tool th
 
 ## Conclusion
 
-Project ShadowLink is not just a cybersecurity tool---it's a digital fortress designed to combat modern cyber warfare. If successful, Sentinel-X will revolutionize cybersecurity**, making digital environments safer for corporations, governments, and individuals worldwide.
+Project ShadowLink is not just a cybersecurity tool---it's a digital fortress designed to combat modern cyber warfare. If successful, Sentinel-X will revolutionize cybersecurity, making digital environments safer for corporations, governments, and individuals worldwide.
 
 ---
 
-ShadowLink* - A digital fortress against modern cyber warfare. 🚀💻
+ShadowLink - A digital fortress against modern cyber warfare. 🚀💻
